@@ -78,4 +78,4 @@ spring:
 azure:
   keyvault:
     enabled: true
-    uri: ${KEY_VAULT_URI}
+    uri: ${AZURE_KEY_VAULT_URI}
